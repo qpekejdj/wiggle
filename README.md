@@ -1,2 +1,3 @@
 # wiggle
-it is a customizable wiggle snake
+it visualizes a snake that goes left right or just sleeps
+# it is customizable
